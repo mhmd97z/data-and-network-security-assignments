@@ -1,4 +1,4 @@
-# Data and Network Security Assignments
+`These assignments were part of my undergrad coursework at Sharif UT.`
 
 ## Buffer Overflow Attack
 Buffer overflow is a kind of control hijacking attacks that targets for taking over target machine. For more information refer to the [link](https://cs155.stanford.edu/syllabus.html).
@@ -18,4 +18,4 @@ In this attack, attacker comes between a client and a server, and exchanges Diff
 
 Here, we have a virtual machine that simulates a client that connects to a server and establishes an encoded communication using Diffie-Hellman protocol to convey a flag. Our job is at first poisoning their ARP cache and then key exchanging to foolish them so that we are able to intercept their intended communication.
 
-P.S: If you need the virtual machine, contact me!
+P.S: If you needed the virtual machine, don't hesitate to contact me!
